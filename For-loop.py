@@ -43,3 +43,8 @@ else:
 #         print(num)
 
 ## we can also use break and continue, enumerate,revered,zip,
+
+#multiplication Table
+#value= 5
+# for i in range(10):
+#     print(i*value)
